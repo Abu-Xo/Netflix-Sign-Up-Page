@@ -1,0 +1,62 @@
+a {
+    text-decoration: none;
+    color: white;
+  }
+
+@media only screen and (min-width: 992px) {
+    body {
+      background: url(img/bg\ img.jpg);
+    }
+  }
+
+  .sike {
+    min-height: 900px;
+    background-color: black;
+    opacity: 0.8;
+  }
+
+@media only screen and (min-width: 768px) {
+    body {
+      background-color: black;
+    }
+  }
+
+@media only screen and (min-width: 568px) {
+    body {
+      background-color: black;
+      
+    }
+  }
+
+@media only screen and (min-width: 992px) {
+    .new {
+      opacity: 1;
+      background-color: rgb(0, 0, 0);
+      min-height: 500px;
+      box-shadow: 0px 0px 70px 5px;
+      padding: 10px 50px 70px 60px;
+    }
+  }
+
+  footer {
+    opacity: 0.9;
+    background-color: black;
+    
+  }
+
+
+  .one ul li {
+    display: inline-block;
+    margin-right: 200px;
+ 
+  }
+
+  .two ul li {
+    display: inline-block;
+    margin-right: 70px;
+  }
+
+  .inner {
+    padding: 20px;
+    height: 60px;
+  }
